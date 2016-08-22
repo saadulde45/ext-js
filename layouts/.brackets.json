@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/Blitz/Documents/Projects/EMC/ext-js/layouts/ext/packages/ext-locale/build/ext-locale-ca-dev.js",
+        "/Users/Blitz/Documents/Projects/EMC/ext-js/layouts/ext/packages/ext-locale/build/ext-locale-ca.js"
+    ]
+}
